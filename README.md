@@ -1,6 +1,6 @@
 # ilkokulmatematik
 
-A new Flutter project.
+basic 4 işlem pratik uygulaması
 
 ## Getting Started
 
